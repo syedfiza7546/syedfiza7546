@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @syedfiza7546
 - 👀 I’m interested in big data
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on data science projects
+- 💞️ I’m looking to collaborate on data analytics projects
 - 📫 How to reach me syedfiza96@gmail.com 
 
 <!---
