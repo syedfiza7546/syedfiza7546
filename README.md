@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @syedfiza
-- 👀 I’m interested in big data
 - 🌱 I’m currently learning python and SQL
 - 💞️ I’m looking to collaborate on data analytics projects
 - 📫 How to reach me syedfiza96@gmail.com 
